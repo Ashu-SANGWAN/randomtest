@@ -28,11 +28,14 @@ align-items: flex-start;
 
 }
 .p   { position: relative;
-left: -564px;
+     left: -564px;
+    font-family: cursive;
 }
 .class1{
     position: relative;
     right: -474px;
+    position: relative;
+    top: -19px;
 }
 .class2{
     position: relative;
@@ -71,7 +74,7 @@ left: -564px;
 .table2{
     background-color: rgb(133, 166, 209);
     width: 487px;
-    height: 256px;
+    height: 250px;
     position: relative;
     left: -3px;
     margin: 16px;
