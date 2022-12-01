@@ -1,0 +1,113 @@
+body{
+    background-color:rgb(30, 97, 155);
+}
+.container{
+    display: flex;
+    font-style: italic;
+    flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+
+}
+.class1{
+    padding: 20px;
+}
+#home{
+    margin-left: auto;
+
+}
+#contact{
+    align-self: flex-start;
+
+}
+#email{
+   
+}
+.class2{
+    
+
+}
+.p   { position: relative;
+left: -564px;
+}
+.class1{
+    position: relative;
+    right: -474px;
+}
+.class2{
+    position: relative;
+    left: 492px;   
+}
+.class3{
+    position: relative;
+    right: -551px;
+}
+.table{
+        background-color: rgb(133, 166, 209);
+        width: 300px;
+        height: 268px;
+        border: 2px solid grey;
+        position: relative;
+        left: -36px;
+        width: 486px
+} 
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+.box2{
+    background-color: rgb(133, 166, 209);
+    border: 2px solid rgb(133, 166, 209) ;
+    width: 394px;
+    padding: 2px;
+    margin: 8px;
+    position: relative;
+    left: 6px;
+    height: 238px;
+    border-radius: 17px;
+}
+.table2{
+    background-color: rgb(133, 166, 209);
+    width: 487px;
+    height: 256px;
+    position: relative;
+    left: -3px;
+    margin: 16px;
+}
+.main2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+.form{
+    background-color: rgb(133, 166, 209);
+    
+    width: 438px;
+    height: 247px;
+    position: relative;
+    left: 7px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 17px;
+}
+img{
+    position: relative;
+    left: 2px;
+    height: 244px;
+    border-radius: 17px;
+}
+.ii{
+    position: relative;
+    left: 9px;
+    margin: 20px;
+
+}
+.i1{
+    position: relative;
+    left: -11px;
+    margin: 20px;
+}
